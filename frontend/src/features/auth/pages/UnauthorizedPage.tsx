@@ -1,0 +1,2 @@
+import { Link } from 'react-router-dom'
+export function UnauthorizedPage() { return <div className="panel mx-auto max-w-lg p-10 text-center"><div className="text-5xl">🔒</div><h1 className="mt-3 section-title">Sin autorización</h1><p className="my-4 text-slate-600">No tenés permisos para acceder a esta página.</p><Link className="font-semibold text-brand underline" to="/">Volver al catálogo</Link></div> }

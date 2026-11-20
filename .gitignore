@@ -1,0 +1,19 @@
+# Configuración privada
+**/.env
+!**/.env.example
+
+# Dependencias / compilaciones
+**/node_modules/
+**/.venv/
+**/venv/
+**/dist/
+**/*.tsbuildinfo
+
+# Archivos locales y caché
+.idea/
+**/__pycache__/
+**/*.pyc
+**/.pytest_cache/
+**/*.sqlite
+**/*.db
+**/.DS_Store
