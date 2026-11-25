@@ -6,9 +6,9 @@ Proyecto Full Stack: **FastAPI + SQLModel + PostgreSQL** (backend) y **React 19 
 
 Durante la preparación se comprobaron en Windows el seed con PostgreSQL 18, los endpoints principales, las compras, cancelaciones, roles y stock, además de `pnpm build` y el recorrido en React. Estas comprobaciones corresponden al entorno de desarrollo utilizado; en otra computadora se debe ejecutar la instalación desde cero siguiendo estos pasos.
 
-**Repositorio público de GitHub:** PENDIENTE — agregar la URL real del repositorio.
+**Repositorio público de GitHub:** https://github.com/michiappone/FoodStore-TPI-Programacion-IV
 
-**Video de demostración (10–15 min):** PENDIENTE — agregar la URL real del video.
+**Video de demostración:** https://youtu.be/nmCsMoK7EY4
 
 ## Requisitos
 
