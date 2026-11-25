@@ -2,8 +2,6 @@
 
 Proyecto Full Stack: **FastAPI + SQLModel + PostgreSQL** (backend) y **React 19 + TypeScript + Vite 7** (frontend). Construido a partir de los conceptos y componentes de los TP8 (Unit of Work), TP9 (seguridad JWT) y TP10 (estructura frontend por features), y adaptado al nuevo UML del TPI.
 
-> **Antes de entregar:** crear un repositorio público de GitHub, reemplazar los campos PENDIENTE por enlaces reales y agregar el enlace público al video de 10 a 15 minutos. Este README es el principal requerido por la consigna.
-
 Durante la preparación se comprobaron en Windows el seed con PostgreSQL 18, los endpoints principales, las compras, cancelaciones, roles y stock, además de `pnpm build` y el recorrido en React. Estas comprobaciones corresponden al entorno de desarrollo utilizado; en otra computadora se debe ejecutar la instalación desde cero siguiendo estos pasos.
 
 **Repositorio público de GitHub:** https://github.com/michiappone/FoodStore-TPI-Programacion-IV
